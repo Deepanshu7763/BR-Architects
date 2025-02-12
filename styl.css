@@ -1,0 +1,188 @@
+.header{
+    display: flex;
+    z-index: 1;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    height: 63px;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 70%;
+}
+.position{
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 5px;
+   font-size: 20px;
+   color: black;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgba(144, 150, 156, 0.952);
+}
+.br{
+    background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    padding: 25px 50px 0 25px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.card1{
+    padding: 25px 50px 0 25px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.header1{
+    background-image: url(https://www.w3schools.com/w3images/house5.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+    color: white;
+    display: flex;
+}
+.header2{
+    background-image: url(https://www.w3schools.com/w3images/house2.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+    color: white;
+    display: flex;
+}
+.header3{
+    background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+    color: white;
+    display: flex;
+}
+.header4{
+    background-image: url(https://www.w3schools.com/w3images/house4.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+    color: white;
+    display: flex;
+}
+.header5{
+    background-image: url(https://www.w3schools.com/w3images/house4.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+    color: white;
+    display: flex;
+}
+.header6{
+    background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+    color: white;
+    display: flex;
+}
+.header7{
+    background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+    color: white;
+    display: flex;
+}
+.header8{
+    background-image: url(https://www.w3schools.com/w3images/house2.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+    color: white;
+    display: flex;
+}
+.card2{
+    padding: 25px 50px 0 25px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.about1{
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+    
+}
+.about2{
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+   
+}
+.about3{
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+}
+.about4{
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 330px;
+    background-size: 330px;
+}
+.contact{
+    background-color: rgb(234, 237, 240);
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+.card2 a:hover{
+    background-color: rgb(88, 91, 94);
+}
+.buttom{
+    width: 100%;
+    background-color: black;
+    height: 100px;
+    margin-top: 25px;
+}
+.site{
+    color: white;
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+hr {
+    border-color: blue;
+}
+
+.contact:hover {
+    color: white;
+background-color: black;
+}
+
+/* .zoom:hover {
+    bca
+} */
